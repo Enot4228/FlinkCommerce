@@ -1,0 +1,1 @@
+flink run -c FlinkCommerce.DataStreamJob FlinkCommerce.jar
